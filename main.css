@@ -1,0 +1,39 @@
+/*Global styling*/
+
+*{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color:rgb(10, 132, 231);
+    margin-bottom: 30%;
+    padding: 150px;
+}
+
+/*Nav styling*/
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 40rem;
+    margin: 2rem;
+}
+
+nav li{
+    font-size: 1.5rem;
+    display: inline-block;
+    padding: 1rem;
+    font-size: 2.2rem;
+}
+
+/*About styling*/
+
+/*Skills & Projects styling*/
+
+/*Contact me styling*/
+
+
